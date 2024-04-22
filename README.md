@@ -190,7 +190,7 @@ make install
 
 If you're on Linux and none of these methods work for you, you can grab a Linux binary from [the newest release](https://github.com/libreddit/libreddit/releases/latest).
 
-## 6) Replit/Heroku/Glitch
+## 6) Build.io
 
 > **Warning**
 > These are free hosting options, but they are *not* private and will monitor server usage to prevent abuse. If you need a free and easy setup, this method may work best for you.
